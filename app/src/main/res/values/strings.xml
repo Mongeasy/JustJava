@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="decrement">-</string>
+    <string name="default_quantity">1</string>
+    <string name="increment">+</string>
+    <string name="order_button">Order</string>
+    <string name="name">Name</string>
+    <string name="app_name">Just Java</string>
+    <string name="total">Total</string>
+    <string name="thanks">Thank you for your order!</string>
+</resources>
